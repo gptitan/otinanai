@@ -1,5 +1,5 @@
 /**
- * Created by otinane on 26/08/16.
+ * Created by npapadopoulos on 26/08/16.
  */
 public class App {
 }
